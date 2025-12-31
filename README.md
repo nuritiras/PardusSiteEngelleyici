@@ -1,6 +1,4 @@
-Okullarda, ofislerde veya kendi çalışma ortamımızda odaklanmayı artırmak için belirli web sitelerine erişimi kısıtlamak gerekebilir. Pardus üzerinde terminal komutlarıyla uğraşmadan, görsel bir arayüz üzerinden site engelleyip açabileceğimiz bir Python uygulaması geliştireceğiz.
-
-Bu projede Python 3 ve arayüz kütüphanesi olarak PyQt6 kullanacağız.
+Okullarda, ofislerde veya kendi çalışma ortamımızda odaklanmayı artırmak için belirli web sitelerine erişimi kısıtlamak gerekebilir. Pardus üzerinde terminal komutlarıyla uğraşmadan, görsel bir arayüz üzerinden site engelleyip açabileceğimiz bir Python 3 ve arayüz kütüphanesi olarak PyQt6 kullanılan uygulama.
 
 ### Çalışma Mantığı: /etc/hosts Nedir?
 Bu uygulama, Linux sistemlerin temel alan adı çözümleme dosyası olan hosts dosyasını kullanır.
